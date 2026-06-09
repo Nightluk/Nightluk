@@ -1,9 +1,6 @@
 # Olá, seja bem vindo ao meu perfil! 😊👌
 ### 📌 Sobre mim 
 Meu nome é Luccas Santos Barbosa. Sou nascido e criado no Brasil 🇧🇷, mais especificamente no estado de São Paulo, e atualmente tenho 16 anos.
-
-Meu primeiro contato com a programação aconteceu ainda na infância, quando acidentalmente pressionei F12 no teclado e acabei modificando as thumbnails do YouTube só para confundir minha irmã 🤣.
-
 Atualmente, estudo na <a href="https://etecitanhaem.cps.sp.gov.br/">Etec de Itanhaém</a> desde 2025. Foi nessa instituição que comecei a me aprofundar mais na programação.
 
 ## Atuais Linguagens 📖
