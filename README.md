@@ -35,8 +35,3 @@ Atualmente, estudo na <a href="https://etecitanhaem.cps.sp.gov.br/">Etec de Itan
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo" title="Canva"/>
 </div>
-
-# Principais entre os repositórios 🏆
-<a href="https://github.com/Nightluk">
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightluk&layout=compact&langs_count=7&theme=dark" border="0" />
-</a>
